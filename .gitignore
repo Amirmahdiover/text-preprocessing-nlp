@@ -1,2 +1,7 @@
 tagged_dataset.csv
 tagged_dataset_sample.csv
+ds_dataset/dataset_dict.json
+ds_dataset/train/data-00000-of-00002.arrow
+ds_dataset/train/data-00001-of-00002.arrow
+ds_dataset/train/dataset_info.json
+ds_dataset/train/state.json
